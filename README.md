@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suganya27302
+- 👋 Hi, I’m Suganya
 - 👀 I’m interested in Machine learning and deep learning
 - 🌱 I’m currently learning ml
 
